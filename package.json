@@ -1,13 +1,17 @@
 {
   "name": "@travisennis/acai-brainstorm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A set of brainstorming agents and tools to use with AI.SDK.",
   "type": "module",
   "exports": {
     "types": "./dist/index.d.ts",
     "default": "./dist/index.js"
   },
-  "keywords": ["brainstorming", "ai", "llm"],
+  "keywords": [
+    "brainstorming",
+    "ai",
+    "llm"
+  ],
   "author": "Travis Ennis",
   "license": "MIT",
   "scripts": {
