@@ -1,6 +1,6 @@
 {
   "name": "@travisennis/acai-brainstorm",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A set of brainstorming agents and tools to use with AI.SDK.",
   "type": "module",
   "exports": {
